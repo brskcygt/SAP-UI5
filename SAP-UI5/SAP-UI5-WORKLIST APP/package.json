@@ -1,0 +1,11 @@
+{
+  "name": "sap.m.tutorial.worklist.01",
+  "version": "1.0.0",
+  "author": "SAP SE",
+  "description": "Sample: Worklist App - Step 1 - Creating the Initial App",
+  "scripts": {
+    "start": "ui5 serve",
+    "build": "ui5 build"
+  }
+  
+}

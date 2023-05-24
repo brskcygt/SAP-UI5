@@ -1,0 +1,11 @@
+{
+  "name": "sap.ui.core.tutorial.navigation.01",
+  "version": "1.0.0",
+  "author": "SAP SE",
+  "description": "Sample: Navigation and Routing - Step 1 - Set Up the Initial App",
+  "scripts": {
+    "start": "ui5 serve",
+    "build": "ui5 build"
+  }
+  
+}

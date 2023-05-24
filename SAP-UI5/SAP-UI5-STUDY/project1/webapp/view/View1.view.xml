@@ -1,0 +1,26 @@
+<mvc:View controllerName="com.gyana.demoproject.controller.View1"
+    xmlns:mvc="sap.ui.core.mvc" displayBlock="true"
+    xmlns="sap.m">
+    <Page id="page" title="{i18n>title}">
+        <content />
+        DENEME
+    </Page>
+
+    <Shell id="shell">
+        <App id="app">
+            <pages>
+                <Page id="page" title="{i18n>title}">
+                    <Panel headerText="Sample Form" class="sapUiResponsiveMargin" width="auto">
+                        <SimpleForm editable="true" layout="ColumnLayout">
+                            <Label text="Firstname"/>
+                            <Input value="Barış" valueLiveUpdate="true" width="200px" enabled="{/enabled}"/>
+                            <Label text="LastName"/>
+                            <Input value="Koçyiğit" valueLiveUpdate="true" width="200px" enabled="{/enabled}"/>
+                            
+                        </SimpleForm>
+                    </Panel>
+                </Page>
+            </pages>
+        </App>
+    </Shell>
+</mvc:View>

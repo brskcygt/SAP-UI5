@@ -1,0 +1,67 @@
+[
+    {
+      "ProductName": "Ananas",
+      "Quantity": 21,
+      "ExtendedPrice": 87.2,
+      "ShipperName": "ÖZ YEŞİL TARIM",
+      "ShippedDate": "2015-04-01T00:00:00",
+      "Status": "A"
+    },
+    {
+      "ProductName": "Milk",
+      "Quantity": 4,
+      "ExtendedPrice": 10,
+      "ShipperName": "ALASÜT",
+      "ShippedDate": "2015-02-18T00:00:00",
+      "Status": "B"
+    },
+    {
+      "ProductName": "Yoğurt",
+      "Quantity": 3,
+      "ExtendedPrice": 6.85,
+      "ShipperName": "ALASÜT",
+      "ShippedDate": "2015-03-02T00:00:00",
+      "Status": "B"
+    },
+    {
+      "ProductName": "Salatalık",
+      "Quantity": 2,
+      "ExtendedPrice": 8.8,
+      "ShipperName": "GÜNEYLER TARIM",
+      "ShippedDate": "2015-04-12T00:00:00",
+      "Status": "C"
+    },
+    {
+      "ProductName": "Ekmek",
+      "Quantity": 1,
+      "ExtendedPrice": 2.71,
+      "ShipperName": "Ünyeliler",
+      "ShippedDate": "2015-01-27T00:00:00",
+      "Status": "A"
+    },
+    {
+      "ProductName": "Çikolata",
+      "Quantity": 36,
+      "ExtendedPrice": 3.42,
+      "ShipperName": "Ülker",
+      "ShippedDate": "2015-01-27T00:00:00",
+      "Status": "A"
+    },
+    {
+      "ProductName": "Patates",
+      "Quantity": 16,
+      "ExtendedPrice": 0.90,
+      "ShipperName": "ERENBİR GIDA",
+      "ShippedDate": "2015-01-27T00:00:00",
+      "Status": "A"
+    },
+    {
+      "ProductName": "Çikolata",
+      "Quantity": 36,
+      "ExtendedPrice": 3.42,
+      "ShipperName": "Ülker",
+      "ShippedDate": "2015-01-27T00:00:00",
+      "Status": "A"
+    }
+    
+  ]
